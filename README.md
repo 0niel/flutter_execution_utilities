@@ -6,6 +6,18 @@
 
 A collection of execution control utilities for Flutter and Dart, including debounce, throttle, memoization, retry mechanisms, and more
 
+## ✨ Features
+
+- 🔄 **Debounce**: Delay function execution until a specified time has elapsed since the last call.
+- ⚡ **Throttle**: Limit the number of times a function can be called over time.
+- 🧠 **Memoization**: Cache function results based on input arguments.
+- 🔁 **Retry Mechanism**: Retry failed asynchronous operations with configurable retries and delays.
+- 📦 **Batcher**: Batch multiple function calls into a single execution.
+- 🚦 **Rate Limiter**: Control the rate of function execution.
+- 🛑 **Circuit Breaker**: Prevent repeated failures by halting function execution when errors exceed a threshold.
+- 💡 **Supports both synchronous and asynchronous functions**.
+- 🚀 **Easy integration with Flutter applications**.
+
 ## Installation 💻
 
 **❗ In order to start using Flutter Execution Utilities you must have the [Dart SDK][dart_install_link] installed on your machine.**
